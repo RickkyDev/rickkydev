@@ -5,7 +5,12 @@
 <br>
 💼 Currently not working with Front-End development, but I already am employed as a Materials Cataloguer at Klassmatt, a tech company that offers ERP sanitation and data governance.
 
-## A little about me:
+## Contact me!
+Before knowing more about me, you can contact me or have even more details about me or what I do with the links below.
+<br>
+
+
+## Now, a little about me:
 ### What I like:
 💻 <strong>Technology:</strong> So many possibilities and so much to learn... I'm all about being up to date with everything I can.
 <br>
