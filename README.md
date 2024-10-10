@@ -1,18 +1,19 @@
 ## Welcome to my profile!
 ### Career and knowledge:
-👨‍🎓 I'm currently studying at Alura to become a full-stack Front-End developer. Currently not working with Front-End development, but I already am employed as a Materials Cataloguer at Klassmatt, a tech company that offers ERP sanitation and data governance.
+👨‍🎓 I'm currently studying at Alura to become a full-stack Front-End developer.
+<br>
+<br>
+💼 Currently not working with Front-End development, but I already am employed as a Materials Cataloguer at Klassmatt, a tech company that offers ERP sanitation and data governance.
 
-## About me:
-
-#
+## A little about me:
 ### What I like:
-💻 Since I was little, technology always made my eyes shine, technology is something that I'm really interested in, not just programming, but stuff like Linux, computer hardware, graphical and UI design, video making, and a lot more.
+💻 <strong>Technology:</strong> So many possibilities and so much to learn... I'm all about being up to date with everything I can.
 <br>
 <br>
-🏎️ Motorsport too is a thing that I have interest and love since I was a little kid, speed, adrenaline and the insides of racing and normal cars always made me so curious and interested in everything this car world has to offer.
+🏎️ <strong>Motorsport and cars:</strong> From Formula 1 to regular day-to-day cars, everything brings a shine to my eyes.
 <br>
 <br>
-🎵 Something that makes me live the present and be calm on a stressful day is music, I'm a big music enthusiast, do not know much about, but if you show me anything from a simple amp to a complex mixing desk, I'll be thrilled to know more technical details about it.
+🎵 <strong>Music:</strong> How can songs make us experience different emotions or states of mind with just some arranged noises? I don't really know, but I'm all in on it!
 
 <!--
 
